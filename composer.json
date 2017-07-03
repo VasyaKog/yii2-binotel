@@ -1,0 +1,21 @@
+{
+    "name": "vasyakog/yii2-binotel",
+    "description": "Binatel CRM extension",
+    "type": "library",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VasyaKog",
+            "email": "kogyt1998@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "vasyakog\\yii2binotel\\": ""
+        }
+    }
+}
